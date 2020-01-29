@@ -1,2 +1,2 @@
-# Shell learning
-This projects contains files I have used to learn how to use the shell
+# The Shell
+In this project I will be learning the shell
